@@ -1,2 +1,7 @@
 # CO.LABs
-LAB1 Practice 1
+
+practice 1
+
+Practice 2
+
+Practice 3
